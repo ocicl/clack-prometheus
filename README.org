@@ -4,6 +4,6 @@ Clack middleware to serve stats in Prometheus format.
 
 |---------+----------------------------------------------------|
 | source  | git:https://github.com/40ants/clack-prometheus.git |
-| commit  | 6aebb15                                            |
+| commit  | 2128793                                            |
 | systems | clack-prometheus                                   |
 |---------+----------------------------------------------------|
